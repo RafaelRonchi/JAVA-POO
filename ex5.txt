@@ -1,0 +1,2 @@
+ ATIVIDADE 5 DA LISTA 01 DE JAVA
+ Para mim a diferança entre “tipo primitivo” e “wrapper class” é que o wrapper class é simples, o wrapper class é uma "evolução" do tipo primitivo, podendo até ser notado pelos seus nomes. Por fim, concluo que os dois irão possuir as variasveis parecidas, porém o wrapper class serve como uma implementação no tipo primitivo.

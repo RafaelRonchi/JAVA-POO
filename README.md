@@ -2,7 +2,7 @@
 
 ## ♦ Sobre o repositório 
 
-Repositório usado para a postagem  de exercicios relizados em java do IFSC.
+Repositório usado para a postagem de exercicios relizados em java do IFSC.
 
 ## ⚙ Tecnologias usadas
 
